@@ -67,3 +67,4 @@ printForecast(temps2)
 
 I felt like I could've done it with the ```join()``` method if I kept thinking about it but I spent an hour on this challenge and decided to do a walk-through of the solution. It gave me insight on how to think about it. Should I try the problems on Hackerrank? Or LeetCode? Maybe CodeWars? Idk.
 
+I'm going to apply to an apprenticeship now and potentially practice coding a little later. 
