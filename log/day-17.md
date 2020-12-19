@@ -1,0 +1,21 @@
+# #100DaysOfCode Log
+
+## Day 17: December 18, 2020
+
+<br>
+
+**Today's Progress**: So I didn't do much coding yesterday but I did meet with my programming partner to plan out what we're going to build together. We chose this site called [Zitsticka](https://zitsticka.com/blogs/skin-tech/at-home-cortisone-shot). Both of us are a huge fan of beauty, fashion, and skincare and think that the fashion branding aesthetic is what we wanted to implement. So we're going to take parts of this website and frankenstein it to do what we want with it. I'm excited for that! We are going to build it via React. 
+
+**TODAY** I continued working on the FB widget to get more react refreshers in. I definitely love react more than vanilla Javascript. I feel like it's so much simpler using ```event handlers``` too. So I read a bit on ```props``` and ```State``` and I'm still getting used to how they work but I definitely understand it more than I understood it when I was at GA. I just feel like — because I'm taking my time and playing around with the technologies — I'm understanding and seeing similar patterns which is resulting in me understanding how React really works. 
+
+I have to play around with ```State``` more and see how it works with event handlers and how data is stored but I'm starting to feel more confident trying things out.
+
+ALSO I learned today that ```constructor() { super() }``` only works within ```Class``` based components and not just functions so I thought that was cool. The way that I found this out was that I was trying to use ```constructor() {}``` to store ```characterCount``` in ```this.state``` and I kept getting an error. So I googled the error and I googled a few other things and found on StackOverflow that ```constructors() { ... }``` only work within ```Class``` Components. INTERESTING. 
+
+It's true that you only learn by fucking up. 
+
+Here are is some of the progress I made:
+
+![](https://i.imgur.com/P2xnRJk.png)
+<br>
+![](https://i.imgur.com/94wFbr0.png)
