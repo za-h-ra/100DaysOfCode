@@ -1,12 +1,12 @@
-# Rules 
+# Rules
 
 ## Main Commitment
- 
-I will code every day Monday through Friday for the next 100 days. I will **not** code on the weekends. I think taking breaks, spending time with friends and family, and alone time is very important and essential for growth. Nobody's got time to burn out! 
+
+I will code every day Monday through Friday for the next 100 days for _at least_ **one** hour. I will **not** code on the weekends. I think taking breaks, spending time with friends and family, and alone time is very important and essential for growth. Nobody's got time to burn out!
 
 ## Start Date
 
-### December 1st, 2020
+### January 14, 2020
 
 ## Additional Rules
 
