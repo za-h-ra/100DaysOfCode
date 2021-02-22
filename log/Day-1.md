@@ -1,6 +1,7 @@
 # #100DaysOfCode Log
 
-## Day 1: February 2, 2021
+## Day 1: February 21, 2021
+
 <br>
 
-**Today's Progress**: 
+**Today's Progress**:
