@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 1: August 6, 2021
+## Day 1: Monday, August 9, 2021
 
 <br>
 
