@@ -17,8 +17,12 @@ So cheers to that! :clinking_glasses:
 
 ## Goal
 
-* Become a confident and knowledgable engineer in Front End Development.
+My goal for the next 100 days are — 
+
+* Become confident in my Front End Skills
 * Meet an amazing network of badass developers/engineers
+* Build one project on my own (without tutorials)
+* Write a blog post on that project
 
 ## Links
 
