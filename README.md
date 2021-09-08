@@ -6,7 +6,7 @@
 
 ## Description
 
-Hi! I'm [Zahra](https://zahrakhadijha.com/):star_struck:! I'm a Front End Engineer. I attended and graduated from General Assembly's Full Stack Software Engineering Immersive and I just landed my first role as a junior position a few months ago. I still consider myself a junior. I'm passionate about my future in tech and the endless possibilities of what can be created. 
+Hi! I'm [Zahra](https://zahrakhadijha.com/):star_struck:! I'm a Front End Engineer. I attended and graduated from General Assembly's Full Stack Software Engineering Immersive and I just landed my first role in front end development a few months ago. I still consider myself a junior. I'm passionate about my future in tech and the endless possibilities of what can be created. 
 
 I'm interested in Front End Development, UX/UI, and Robotics. Some of my favorite things in the world include fitness, nature, art, museums, books, travel, YUMMY FOOD and being around people I love.
 
@@ -21,15 +21,18 @@ My goal for the next 100 days are —
 
 * Become confident in my Front End Skills
 * Meet an amazing network of badass developers/engineers
-* Build one project on my own (without tutorials)
-* Write a blog post on that project
+* Update my portfolio!
+* Write 5 blog posts on a topic I've learned
 
 ## Links
-
+[Twitter](https://twitter.com/zahrakhadijha)<br>
 [Portfolio](https://zahrakhadijha.com/)<br>
+[Blog](https://blog.zahrakhadijha.com/)<br>
 [LinkedIn](https://www.linkedin.com/in/zahra-khan-01/) <br>
 [CodePen](https://codepen.io/zahrakhadijha)<br>
-[Twitter](https://twitter.com/zahrakhadijha)
+[DEV](https://dev.to/zahrakhadijha)
+<br>
+
 
 
 
