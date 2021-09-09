@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 1: Tuesday, September 7, 2021
+## Day 1: Wednesday, September 8, 2021
 
 <hr>
 

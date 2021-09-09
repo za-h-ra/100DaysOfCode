@@ -6,7 +6,7 @@ I will code every day Monday through Friday for the next 100 days for _at least_
 
 ## Start Date
 
-### Tuesday, September 7, 2021
+### Wednesday, September 8, 2021
 
 ## Additional Rules
 
