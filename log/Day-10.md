@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 3: 
+## Day 10:
 
 **Today's Progress**:
 
