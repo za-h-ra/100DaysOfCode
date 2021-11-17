@@ -16,5 +16,9 @@ The most progress I had ever made was back in December 2020 where I was keeping 
 
 **Today's Progress**:
 
+I started day 1 off with Jonas Schmedtmann's The Complete JavaScript Course on Udemy. I've taken this course before but haven't completed it so I decided to start over, solidify my knowledge for real this time. I watched section 6-8 - one of the sections explaining what JavaScript is and decided I'd write a blog post based on that on Why JavaScript is a good first language to learn. This helps me understand what JavaScript really is as well and why it's used univerally. 
+
+The goal this time is to stick to one course, take it slowly because this isn't a sprint, complete the challenges and then to write about them to lock in the learning. Is that too ambitious? We'll see. But I switched my hours at work from 9-6pm ET to 7am-4pm ET so I feel like it'll be easier to time-block for learning instead of feeling like I'm all over the place.
 
 **Thoughts**:
+Feeling good and nervous. Let's go!
