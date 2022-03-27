@@ -1,24 +1,40 @@
 # #100DaysOfCode Log
 
-## Day 1: Tuesday, November 16, 2021
+## Day 1: Sunday, March 27, 2022
 
 <hr>
 
 **Tech Stack**
 
-1. Javascript
-2. Typescript
-3. React
-4. Redux
+1. How the Internet Works
+2. Computer Science Fundamentals
+3. Javascript
+4. Typescript
+5. React
+6. Redux
 <hr>
 
-The most progress I had ever made was back in December 2020 where I was keeping a detailed log of what I was learning (made it to day 25! Wooo!) ([archived](https://github.com/zahrakhadijha/100DaysOfCode/tree/main/log/archived)) Keeping these detailed logs in Github vs. just briefly posting on Twitter of what I did helps me solidify what I'm learning. I've debated creating a seperate blog for my #100DaysOfCode, however, I feel less pressure to reflect and just write my informal thoughts here, whereas a blog seems more sophisticated. I'm going to commit to this round privately to build my own personal habit. So here it goes -
 
 **Today's Progress**:
 
-I started day 1 off with Jonas Schmedtmann's The Complete JavaScript Course on Udemy. I've taken this course before but haven't completed it so I decided to start over, solidify my knowledge for real this time. I watched section 6-8 - one of the sections explaining what JavaScript is and decided I'd write a blog post based on that on Why JavaScript is a good first language to learn. This helps me understand what JavaScript really is as well and why it's used univerally. 
+For round one of #100DaysOfCode, I'd like to focus on Andrei Neagoie's [curriculum](https://zerotomastery.io/blog/learn-to-code-for-free).
 
-The goal this time is to stick to one course, take it slowly because this isn't a sprint, complete the challenges and then to write about them to lock in the learning. Is that too ambitious? We'll see. But I switched my hours at work from 9-6pm ET to 7am-4pm ET so I feel like it'll be easier to time-block for learning instead of feeling like I'm all over the place.
+When learning, I think structure is important. I've always been someone who does well with a focused plan with an end goal and a habit that came out of it. As of late, I've been blindly following courses, which has caused me to be unproductive and all over the place. There's a wealth of knowledge out there and sometimes, I just need to be told what to choose. So this is what I'm sticking with. 
+
+Today, I read the article on the [Feynman Technique](https://medium.com/taking-note/learning-from-the-feynman-technique-5373014ad230). If you're someone who loves to learn and wants to remember what you've learnned, this efficient technique is for you. It's pretty much:
+
+1. Identify the subject you want to study
+2. Teach it to a child
+3. Identify your knowledge gap &review the material again
+4. Organize + simplify + tell a story.
+
+How will I use this? In blog posts. Something I want to become consistent in is writing blog posts for what I'm learning. 
+
+___
+
+Also watched [Andrei Neogoie's playlist](https://www.youtube.com/playlist?list=PL2HX_yT71umBgUzdKDfbuXnysZWqiGX4L) on how the internet works, which also gave an Introduction to HTML and CSS.
+
+Most would think it a waste of time, but sometimes I love learning things from the complete beginning. Even if you have knowledge in something, sometimes, new knowledge pops up and you end up learning things you didn't think you knew. So I don't think re-learning and re-watching lessons on HTML and CSS.
+
 
 **Thoughts**:
-Feeling good and nervous. Let's go!
