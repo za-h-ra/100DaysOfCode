@@ -34,7 +34,21 @@ ___
 
 Also watched [Andrei Neogoie's playlist](https://www.youtube.com/playlist?list=PL2HX_yT71umBgUzdKDfbuXnysZWqiGX4L) on how the internet works, which also gave an Introduction to HTML and CSS.
 
-Most would think it a waste of time, but sometimes I love learning things from the complete beginning. Even if you have knowledge in something, sometimes, new knowledge pops up and you end up learning things you didn't think you knew. So I don't think re-learning and re-watching lessons on HTML and CSS.
+Most would think it a waste of time, but sometimes I love learning things from the complete beginning. Even if you have knowledge in something, sometimes new knowledge pops up and you end up learning things you didn't know. So I don't think re-learning and re-watching lessons on HTML and CSS are a waste of time.
 
+Maybe I'll create a cheatsheet but learned that some of the most common `HTML` tags are:
 
-**Thoughts**:
+1. `<!DOCTYPE html>`
+2. `h1` - `h6`
+3. `<p></p>`
+4. `<strong>`
+5. `<em>`
+6. `<ol>`
+7. `<ul>`
+8. `<li>`
+9. `<img src>`
+10. `<br>`
+11. `<hr>`
+12. `<a href>`
+
+But let's not forget about semantic HTML. More on that later!
