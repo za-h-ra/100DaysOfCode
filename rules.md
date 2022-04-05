@@ -6,11 +6,11 @@ I will code every day Monday through Friday for the next 100 days for _at least_
 
 ## Start Date
 
-### Sunday, March 27, 2022 
+### Monday, April 4, 2022
 
 ## Additional Rules
 
-1. I will tweet about my progress using the #100DaysOfCode hashtag.
+1. I will tweet out the projects that I build with the hashtag #100DaysOfCode and #100Devs.
 2. I will comment on at least two peoples #100DaysOfCode or #100Devs progress.
 3. I will join [CodeNewbies](https://twitter.com/CodeNewbies) Twitter Chat every week.
 4. I will push relevant code to GitHub every day so that anyone is able to access my progress.
