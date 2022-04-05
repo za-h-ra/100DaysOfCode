@@ -33,4 +33,4 @@ These are the building blocks of what I use at work, daily. But I don't consider
 
 Also building sites with HTML/CSS and getting really GOOD at that sounds like a lot of fun.
 
-This was my progress today. I bought Jonas' Schmedtmann's Responsive Web Design course which teaches HTML and CSS so I'll be going through that.
+This was my progress today. I bought Jonas' Schmedtmann's [Responsive Web Design](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course which teaches HTML and CSS so I'll be going through that.
