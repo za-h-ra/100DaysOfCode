@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 1: Tuesday, April 5, 2022
+## Day 2: Tuesday, April 5, 2022
 
 <hr>
 
