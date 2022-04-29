@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 14: Thursday, April 26, 2022
+## Day 14: Tuesday, April 26, 2022
 
 <hr>
 
