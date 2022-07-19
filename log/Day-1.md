@@ -33,7 +33,7 @@ Today - I reviewed Data Types in JavaScript:
 6. Symbol
 7. Number
 
-And reviewed Strings. People think strings aren't important or not that big of a deal, but obviously many interview questions are asked that involve strings!
+And reviewed Strings. People think strings aren't important or not that big of a deal, but obviously many interview questions that are asked involve strings!
 
 I learned some methods, that I haven't used in a LONG time, or even touched in years.
 
@@ -52,9 +52,11 @@ And then I started the Complete JavaScript course but reviewed only a brief intr
 Some questions to answer:
 
 1. What are data types in JavaScript?
-   They are types of data that can manipulated and stored.
-
+   Answer: They are types of data that can manipulated and stored.
+   <br>
 2. Name a few data types?
+
+Answer:
 
 - Boolean
 - String
@@ -63,13 +65,13 @@ Some questions to answer:
   (named them aboved lol)
 
 3. Is JavaScript a dynamic programming language?
-   Yes.
+   Answer: Yes.
 
 4. Does JavaScript require me to declare a data type?
-   No because it's a dynamic language. But Typescript will make you declare a data type!
+   Answer: No because it's a dynamic language. But Typescript will make you declare a data type!
 
 5. Which data type is assigned to a numeric value?
-   Number
+   Answer: Number
 
 6. Do Null and Undefined mean the same thing?
-   No! I wrote a [blog post](https://blog.zahrakhadijha.com/the-difference-between-null-and-undefined-in-javascript) on this.
+   Answer: No! I wrote a [blog post](https://blog.zahrakhadijha.com/the-difference-between-null-and-undefined-in-javascript) on this.
