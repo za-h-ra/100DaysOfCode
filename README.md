@@ -7,30 +7,24 @@
 
 ## Description
 
-Hi! I'm [Zahra](https://zahrakhadijha.com/)⭐️! I'm a Software Engineer. I attended and graduated from General Assembly's Full Stack Software Engineering Immersive. I'm passionate about my future in tech and the endless possibilities of what can be created so I want to participate in this challenge to level-up my knowledge.
+I'm Zahra 👋🏼 I'm a Software Engineer looking for my next opportunity. I'm currently coding in JavaScript/React/TypeScript and learning Node.js.
 
-I'm interested in Front End Development, UX/UI, and Robotics. Some of my favorite things in the world include fitness, nature, art, museums, books, travel, YUMMY FOOD and being around people I love.
-
-I've started and stopped the #100DaysOfCode challenge many times. However, I would like to challenge myself to build a study habit of learning things I don't know outside of work so I will be logging my progress and learnings. There is ALWAYS something to learn, even from the things you already know. I'm committing to this challenge to build a habit of communicating what I'm learning, to become a better engineer and to feel confident in my skills so I can contribute to massive projects more.
-
-So cheers to that! :clinking_glasses:
+I am also studying for technical interviews. Therefore, I'm dedicating this 100 Days of Code commitment to interview studying until I land that new adventure. 🥂
 
 ## Goal
 
 My goal for the next 100 days are —
 
-- Become confident in my Front End Skills
-- Be able to understand Data Structures & Algorithms
-- Update and clean up my technical my portfolio!
-- Write 5 blog posts on a topic I've learned
-- Create 2 Pure CSS art ✨
+- [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) by Colt Steele
+- Read Cracking the Coding Interview simultaneously
+- [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/) by Jonas Schmedtmann
+- Write 3 blog posts about a topic I've learned
 
 ## Links
 
-[Twitter](https://twitter.com/zahrakhadijha)<br>
-[Portfolio](https://zahrakhadijha.com/)<br>
-[Blog](https://blog.zahrakhadijha.com/)<br>
-[LinkedIn](https://www.linkedin.com/in/zahra-khan-01/) <br>
-[CodePen](https://codepen.io/zahrakhadijha)<br>
+[Twitter](https://twitter.com/zahrakhadijha)
+[Portfolio](https://zahrakhadijha.com/)
+[Blog](https://blog.zahrakhadijha.com/)
+[LinkedIn](https://www.linkedin.com/in/zahra-khan-01/)
+[CodePen](https://codepen.io/zahrakhadijha)
 [DEV](https://dev.to/zahrakhadijha)
-<br>
