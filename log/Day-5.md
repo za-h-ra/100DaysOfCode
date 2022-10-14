@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 5: Friday, September 30, 2022
+## Day 5:
 
 <hr>
 

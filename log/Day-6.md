@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 6: Saturday, October 1, 2022
+## Day 6:
 
 <hr>
 

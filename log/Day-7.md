@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 7: Sunday, October 2, 2022
+## Day 7:
 
 <hr>
 

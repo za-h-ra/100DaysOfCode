@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 9: Tuesday, October 4, 2022
+## Day 9:
 
 <hr>
 
