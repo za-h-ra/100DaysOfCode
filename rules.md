@@ -6,7 +6,7 @@ I will code every day Monday through Saturday for the next 100 days for _at leas
 
 ## Start Date
 
-### Friday, October 14, 2022
+### Monday, October 17, 2022
 
 ## Additional Rules
 
