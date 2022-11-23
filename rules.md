@@ -6,7 +6,6 @@ My main committment here is that I will be working through the following courses
 
 - JavaScript Algorithms and Data Structures by Colt Steele
 - 50 Projects in 50 Days by Brad Traversy & Florin Pop
-- HacktoberFest - contribute to 3 open source projects! (I have a week left to do this).
 
 And this isn't code related but I will be opening up an Etsy shop to sell Digital Products. It's a career goal to make some passive income while I search for fulltime employment. So I'll be posting about how that's going as well.
 
@@ -14,7 +13,7 @@ This committment is my new fulltime job as of now. I will code every day Monday 
 
 ## Start Date
 
-### Tuesday, October 25, 2022
+### Wednesday, November 23, 2022
 
 ## Additional Rules
 
