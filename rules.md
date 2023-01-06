@@ -15,7 +15,7 @@ This committment is my new fulltime job as of now. I will code every day Monday 
 
 ## Start Date
 
-### Sunday, December 18, 2022
+### Friday, January 6, 2023
 
 ## Additional Rules
 

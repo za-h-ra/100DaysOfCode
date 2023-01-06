@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 1: Sunday, December 18, 2022
+## Day 1: Friday, January 6, 2023
 
 <hr>
 
