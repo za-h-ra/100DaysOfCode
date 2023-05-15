@@ -2,13 +2,15 @@
 
 ## Commitment
 
-- The Complete Elixir and Phoenix Bootcamp by Stephen Grider
+- The Web Development Bootcamp 2023 by Colt Steele
+- Cracking the Coding Interview Book
+- JavaScript Data Structures & Algorithms Masterclass
 
-(Will add more once finished. But the goal is to focus on one thing at a time)
+The commitment is to excel in Interviewing, Data Structures & Algorithms, and continue my learning in JavaScript/React.
 
 ## Start Date
 
-### Monday, March 27, 2023
+### Monday, May 15, 2023
 
 ## Additional Rules
 
