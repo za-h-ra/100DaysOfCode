@@ -10,7 +10,7 @@ The commitment is to excel in Interviewing, Data Structures & Algorithms, and co
 
 ## Start Date
 
-### Monday, May 15, 2023
+### Wednesday, September 6, 2023
 
 ## Additional Rules
 
