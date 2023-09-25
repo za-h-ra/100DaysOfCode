@@ -2,15 +2,13 @@
 
 ## Commitment
 
-- The Web Development Bootcamp 2023 by Colt Steele
-- Cracking the Coding Interview Book
-- JavaScript Data Structures & Algorithms Masterclass
+- CS50 by HardvardX
 
 The commitment is to excel in Interviewing, Data Structures & Algorithms, and continue my learning in JavaScript/React.
 
 ## Start Date
 
-### Wednesday, September 6, 2023
+### Monday, September 25, 2023
 
 ## Additional Rules
 
