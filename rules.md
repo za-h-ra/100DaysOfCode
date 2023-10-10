@@ -6,7 +6,7 @@ The commitment to build a consistent study habit.
 
 ## Start Date
 
-### Monday, September 25, 2023
+### Monday, October 9, 2023
 
 ## Additional Rules
 
