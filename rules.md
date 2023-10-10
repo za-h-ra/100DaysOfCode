@@ -2,9 +2,7 @@
 
 ## Commitment
 
-- CS50 by HardvardX
-
-The commitment is to excel in Interviewing, Data Structures & Algorithms, and continue my learning in JavaScript/React.
+The commitment to build a consistent study habit.
 
 ## Start Date
 
