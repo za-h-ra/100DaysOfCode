@@ -2,11 +2,11 @@
 
 ## Commitment
 
-The commitment to build a consistent study habit.
+No more procrastinating. The goal is to get a job in big tech. So I'm making a commitment to myself to do an hour everyday. No more, no less. And then summarize what I learned.
 
 ## Start Date
 
-### Monday, October 9, 2023
+### November 30, 2023
 
 ## Additional Rules
 

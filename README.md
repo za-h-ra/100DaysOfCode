@@ -7,7 +7,7 @@
 
 ## Description
 
-Hello! I'm Zahra 👋🏼 I'm a Software Engineer based in New York City. Doing this challenge to level up in my career and see where that takes me!
+Hello! I'm Zahra 👋🏼 I'm a Software Engineer based in New York City. I'm doing this challenge so that I can get a job in big tech.
 
 ## Links
 
