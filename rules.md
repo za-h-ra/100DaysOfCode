@@ -6,7 +6,7 @@ No more procrastinating. The goal is to get a job in big tech. So I'm making a c
 
 ## Start Date
 
-### November 30, 2023
+### Saturday, December 16, 2023
 
 ## Additional Rules
 
