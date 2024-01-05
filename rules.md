@@ -4,6 +4,11 @@
 
 No more procrastinating. The goal is to get a job in big tech. So I'm making a commitment to myself to do an hour everyday. No more, no less. And then summarize what I learned.
 
+**Course:**
+
+- Computer Science Bootcamp
+- freeCodeCamp JavaScript Algorithms and Data Structures
+
 ## Start Date
 
 ### Saturday, December 16, 2023
