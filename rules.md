@@ -6,12 +6,13 @@ No more procrastinating. The goal is to get a job in big tech. So I'm making a c
 
 **Course:**
 
-- Computer Science Bootcamp
+- The Complete JavaScript Course 2024: From Zero to Expert!
 - freeCodeCamp JavaScript Algorithms and Data Structures
+-
 
 ## Start Date
 
-### Saturday, December 16, 2023
+### Thursday, January 25, 2024
 
 ## Additional Rules
 
