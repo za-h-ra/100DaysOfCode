@@ -2,8 +2,6 @@
 
 ## Commitment
 
-No more procrastinating. The goal is to get a job in big tech. So I'm making a commitment to myself to do an hour everyday. No more, no less. And then summarize what I learned.
-
 **Course:**
 
 - The Complete JavaScript Course 2024: From Zero to Expert!
@@ -12,7 +10,7 @@ No more procrastinating. The goal is to get a job in big tech. So I'm making a c
 
 ## Start Date
 
-### Thursday, January 25, 2024
+### Monday, March 4, 2024
 
 ## Additional Rules
 

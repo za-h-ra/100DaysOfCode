@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 4: Wednesday, December 20, 2023
+## Day 4:
 
 <hr>
 

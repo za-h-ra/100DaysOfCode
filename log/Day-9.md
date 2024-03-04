@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 9: Tuesday, January 9, 2024
+## Day 9:
 
 <hr>
 

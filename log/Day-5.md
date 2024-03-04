@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 5: Sunday, December 24, 2023
+## Day 5:
 
 <hr>
 

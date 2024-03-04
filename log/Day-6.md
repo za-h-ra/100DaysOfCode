@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-## Day 6: Thursday, January 4, 2024
+## Day 6:
 
 <hr>
 
