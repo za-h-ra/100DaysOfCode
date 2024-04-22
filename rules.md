@@ -10,7 +10,7 @@
 
 ## Start Date
 
-### Monday, March 4, 2024
+### Monday, April 22, 2024
 
 ## Additional Rules
 
