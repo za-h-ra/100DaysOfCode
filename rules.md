@@ -4,13 +4,13 @@
 
 **Course:**
 
-- The Complete JavaScript Course 2024: From Zero to Expert!
-- freeCodeCamp JavaScript Algorithms and Data Structures
--
+- JavaScript Algorithms and Data Structures Masterclass
+- Crash Course: Build a Full Stack Web App in a Weekend!
+- 20 Web Projects with Vanilla JavaScript
 
 ## Start Date
 
-### Monday, April 22, 2024
+### Wednesday, December 18, 2024
 
 ## Additional Rules
 
