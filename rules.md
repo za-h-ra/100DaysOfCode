@@ -4,9 +4,8 @@
 
 **Course:**
 
-- JavaScript Algorithms and Data Structures Masterclass
-- Crash Course: Build a Full Stack Web App in a Weekend!
-- 20 Web Projects with Vanilla JavaScript
+- Programming in Java @ Columbia University
+  -The Complete JavaScript Course 2025 by Jonas Schmedtmann
 
 ## Start Date
 
