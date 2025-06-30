@@ -4,12 +4,12 @@
 
 **Course:**
 
-- Programming in Java @ Columbia University
-  -The Complete JavaScript Course 2025 by Jonas Schmedtmann
+- [One Week Python](https://www.udemy.com/course/one-week-python/) by Colt Steele
+- Intro to Computer Science — Python (Khan Academy)
 
 ## Start Date
 
-### Wednesday, December 18, 2024
+### Monday, June 30, 2025
 
 ## Additional Rules
 
