@@ -4,12 +4,11 @@
 
 **Course:**
 
-- [One Week Python](https://www.udemy.com/course/one-week-python/) by Colt Steele
-- Intro to Computer Science — Python (Khan Academy)
+- TBD
 
 ## Start Date
 
-### Monday, June 30, 2025
+### TBD
 
 ## Additional Rules
 
