@@ -4,11 +4,11 @@
 
 **Course:**
 
-- TBD
+- The Complete JavaScript Course 2025: From Zero to Expert!
 
 ## Start Date
 
-### TBD
+### Sunday, July 20, 2025
 
 ## Additional Rules
 
